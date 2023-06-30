@@ -1,0 +1,4 @@
+Introduction
+The cellphone usage made our lives easier, even though the first purpose of this technology was to communicate. Thinking of all the functions that a smartphone can provide, an excellent innovation would be to implementing online public transport tickets and cards.
+The idea is to have an app that would generate an online ticket or an online card, and people would hold their smartphone against the contactless readers located in buses or transit stations.
+
